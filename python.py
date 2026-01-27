@@ -1,1 +1,1 @@
-print("ci is running")
+CI is running
