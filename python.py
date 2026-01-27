@@ -1,1 +1,2 @@
-CI is running
+print("CI is running")
+
